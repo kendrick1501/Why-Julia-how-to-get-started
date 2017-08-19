@@ -1,6 +1,6 @@
 # Installing Julia
 
-You can install the pristine Julia terminal by downloading the installation package from [Here](https://julialang.org/downloads/) or you can use the alternative [JuliaPro](http://juliacomputing.com/products/juliapro.html) package which includes the [Juno IDE](http://junolab.org/), the Gallium debugger, and a number of packages for plotting, optimization, machine learning, databases and more.
+You can install the *pristine* Julia terminal by downloading the installation package from [Here](https://julialang.org/downloads/) or you can use the alternative [JuliaPro](http://juliacomputing.com/products/juliapro.html) package which includes the [Juno IDE](http://junolab.org/), the Gallium debugger, and a number of packages for plotting, optimization, machine learning, databases and more.
 
 If you choose to install the Julia terminal, make sure to add all the packages we will be using in our talk. 
 
@@ -33,9 +33,12 @@ Or you can download the file *Install_packages.jl* and type in your REPL
 ```julia
 include("Install_packages.jl")
 ```
-to execute the file. Note that you will need to change the working directory of the REPL so that it will be able to find and run the file. To do this, type *;* to activate the *shell prompt* then use the shell commands to change the directory. For instance in Ubuntu, you could do:
+Note that you will need to change the working directory of the REPL so that it will be able to find and execute the file. To do this, type *;* to activate the *shell prompt* then use the shell commands to change the directory. For instance in Ubuntu, you could do:
 
+![Screenshot](Screenshot01.png)
 
+If you choose to install the JuliaPro version, verify that it has the required packages already installed.
+By typing the command ```using **PckName** ``` you should be able to do it.
 
 
 
