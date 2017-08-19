@@ -40,5 +40,6 @@ Note that you will need to change the working directory of the REPL so that it w
 If you choose to install the JuliaPro version, verify that it has the required packages already installed.
 By typing the command ```using **PckName** ``` you should be able to do it.
 
+With Julia on and running in your system, we are ready to dive in. Hope you will enjoy it as much as I did when I started to use it.
 
 
