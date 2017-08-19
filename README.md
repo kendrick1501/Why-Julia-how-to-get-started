@@ -1,6 +1,6 @@
 # Installing Julia
 
-You can install the *pristine* Julia terminal by downloading the installation package from [Here](https://julialang.org/downloads/) or you can use the alternative [JuliaPro](http://juliacomputing.com/products/juliapro.html) package which includes the [Juno IDE](http://junolab.org/), the Gallium debugger, and a number of packages for plotting, optimization, machine learning, databases and more.
+You can install the *pristine* Julia terminal by downloading the installation package from [here](https://julialang.org/downloads/) or you can use the alternative [JuliaPro](http://juliacomputing.com/products/juliapro.html) package which includes the [Juno IDE](http://junolab.org/), the Gallium debugger, and a number of packages for plotting, optimization, machine learning, databases and more.
 
 If you choose to install the Julia terminal, make sure to add all the packages we will be using in our talk. 
 
