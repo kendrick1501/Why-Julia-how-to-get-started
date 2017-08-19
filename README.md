@@ -27,7 +27,7 @@ Pkg.add("ImageMagick")
 5. Add packages for deep learning [Mocha](https://github.com/pluskid/Mocha.jl) and [TensorFlow](https://github.com/malmaud/TensorFlow.jl)
 ```julia
 Pkg.add("Mocha")
-Pkg.add(TensorFlow)
+Pkg.add("TensorFlow")
 ```
 Or you can download the file *Install_packages.jl* and type in your REPL.
 ```julia
